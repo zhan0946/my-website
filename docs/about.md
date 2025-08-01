@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # About
 This website is a space for you to learn and practice JavaScript. The live editor runs your code right away without the need to install any development environments.
 

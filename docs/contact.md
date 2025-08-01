@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Contact
 Do you have any questions or suggestions? Email us at livejs@email.com.
 
